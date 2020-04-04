@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">太阳能放电器</string>
+    <string name="action_about">软件说明</string>
+    <string name="action_about_detail">\n仅供娱乐！\n\n将设备放置在阳光下即可为设备快速放电\n\n为了您的手机安全，请勿将设备长时间放在阳光下！</string>
+    <string name="app_discharge">⚡</string>
+    <string name="app_discharging">正在快速放电</string>
+    <string name="done">我知道了</string>
+</resources>
